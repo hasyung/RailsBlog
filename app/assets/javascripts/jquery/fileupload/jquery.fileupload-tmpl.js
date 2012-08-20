@@ -44,6 +44,8 @@
                 " " : " "
             }[s] || "\\" + s;
         }
+        
+        
         if (p2) { // interpolation: {%=prop%}, or unescaped: {%#prop%}
             if (p2 === "=") {
                 return "'+_e(" + p3 + ")+'";

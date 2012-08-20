@@ -1,4 +1,4 @@
-1345461392
+1345461797
 ActsAsTaggableOnMigration	/home/hanyang/work/RailsBlog/db/migrate/20120815100858_acts_as_taggable_on_migration.rb	class ActsAsTaggableOnMigration 
 AdGallery	/home/hanyang/work/RailsBlog/app/assets/javascripts/jquery/jquery.ad-gallery.js	function AdGallery(wrapper, settings)
 AdGallerySlideshow	/home/hanyang/work/RailsBlog/app/assets/javascripts/jquery/jquery.ad-gallery.js	function AdGallerySlideshow(nextimage_callback, settings)
